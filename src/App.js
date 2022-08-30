@@ -30,6 +30,9 @@ function App() {
       <div id='box'>
       <h1>Patient Vital Data</h1>
     <p>The Data is: {note}</p>
+    <div>
+      
+    </div>
       </div>
    
 		
