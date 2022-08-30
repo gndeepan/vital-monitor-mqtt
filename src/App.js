@@ -29,7 +29,7 @@ function App() {
     <header className="App-header">
       <div id='box'>
       <h1>Patient Vital Data</h1>
-    <p>The Data is: {mesg}</p>
+    <p>The Data is: {note}</p>
       </div>
    
 		
